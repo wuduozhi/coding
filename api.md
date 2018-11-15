@@ -213,7 +213,7 @@ null
 gateway's id
 
 ##### return
-
+```
 {
     "data": [
         {
