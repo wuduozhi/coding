@@ -150,7 +150,7 @@ null
 * produce_date:1234567890000
     - 生产时间,时间戳
 * gate_id
-    - 传感器id
+    - 网关id
 * classify_id
     - 传感器类型id
 
